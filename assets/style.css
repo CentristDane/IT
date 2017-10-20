@@ -1,3 +1,14 @@
+#mc_embed_signup{
+  border: solid 10px black;
+  padding-left: 20px;
+  width: 400px;
+  height: 400px;
+  margin-left: 50px;
+}
+.indicates-required{
+}
+.mc-field-group {
+}
 
 .jumbotron {
   background-color: black;
@@ -22,13 +33,19 @@ h1 {
 .lead {
   font-family: 'Permanent Marker', cursive;
   color: red;
-=======
+}
 .penny:hover {
 	background-image: url("./images/pennywise_dancing.gif");
 	height: 50%;
-	width: 50%;
+	width: auto;
 }
 
+.btn-danger{
+  font-family:'Creepster', cursive;
+  letter-spacing: 5px;
+  margin-top: 10px;
+  font-size: 25px;
+}
 p { 
 	font-family: 'Permanent Marker', cursive;
  }
@@ -40,6 +57,24 @@ p {
 	width: auto;
 }
 
+.card-text {
+  color: white;
+  font-family: sans-serif;
+  letter-spacing: 2px;
+}
+.card {
+border-color: red;  
+}
+.card-body {
+  background-color: black;
+  
+}
+h2{ 
+  color: red;
+  font-family: 'Creepster', cursive;
+  letter-spacing: 5px;
+  font-size: 25px;
+ }
 body {
 	background-color: black;
 
