@@ -1,0 +1,14 @@
+.penny:hover {
+	background-image: url("./images/pennywise_dancing.gif");
+}
+
+p { 
+	font-family: 'Permanent Marker', cursive;
+ }
+.penny {
+
+	background-image: url("./images/pennywise_balloon.png");
+
+	height: 200px;
+	width: auto;
+}
