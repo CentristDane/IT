@@ -1,3 +1,4 @@
+
 .jumbotron {
   background-color: black;
   padding-top: 5px;
@@ -21,4 +22,25 @@ h1 {
 .lead {
   font-family: 'Permanent Marker', cursive;
   color: red;
+=======
+.penny:hover {
+	background-image: url("./images/pennywise_dancing.gif");
+	height: 50%;
+	width: 50%;
+}
+
+p { 
+	font-family: 'Permanent Marker', cursive;
+ }
+.penny {
+
+	background-image: url("./images/pennywise_balloon.png");
+
+	height: 90%;
+	width: auto;
+}
+
+body {
+	background-color: black;
+
 }
